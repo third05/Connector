@@ -1,0 +1,48 @@
+[
+  {
+    "Id": 1,
+    "Name": "Автотранспортный участок (в г. Омске)",
+    "Workers": [
+      {
+        "Name": "Кравцова Оксана Викторовн",
+        "ComputerName": "71508-04",
+        "EllipseSetting": 0,
+        "Color": "#FF808080",
+        "Ip": null,
+        "IsSelected": true
+      },
+      {
+        "Name": "Локотаев Вячеслав Владимирович",
+        "ComputerName": "34324-08",
+        "EllipseSetting": 0,
+        "Color": "#FF808080",
+        "Ip": null,
+        "IsSelected": false
+      },
+      {
+        "Name": "Хусаинов Талгат Нурмуканович",
+        "ComputerName": "75748-03",
+        "EllipseSetting": 0,
+        "Color": "#FF808080",
+        "Ip": null,
+        "IsSelected": false
+      },
+      {
+        "Name": "Ненадов Денис Викторович",
+        "ComputerName": "32279",
+        "EllipseSetting": 0,
+        "Color": "#FF808080",
+        "Ip": null,
+        "IsSelected": false
+      },
+      {
+        "Name": "Сабиров Ринат Рифкатович",
+        "ComputerName": "29473-1",
+        "EllipseSetting": 0,
+        "Color": "#FF808080",
+        "Ip": null,
+        "IsSelected": false
+      }
+    ]
+  }
+]
